@@ -11,7 +11,7 @@
   </ul>
 <br>
 <h3>Versão Desktop</h3>
-<img src="https://github.com/paulllomatheus/easy-shopping/blob/master/img/easy-shopping-desktop.png?raw=true" alt="versao-desktop"/>
+<img src="https://github.com/paulllomatheus/Projeto-We-Care/blob/master/img/Projeto-Wide-desktop.png?raw=true"/>
 <br>
 <h3>Versão Mobile</h3>
-<img src="https://github.com/paulllomatheus/easy-shopping/blob/master/img/easy-shopping-mobile.png?raw=true" alt="versao-mobile"/>
+<img src="https://github.com/paulllomatheus/Projeto-We-Care/blob/master/img/Projeto-Wide-mobile.png?raw=true" alt="versao-mobile"/>
