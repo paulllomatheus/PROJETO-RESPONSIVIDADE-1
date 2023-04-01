@@ -11,7 +11,7 @@
   </ul>
 <br>
 <h3>Versão Desktop</h3>
-<img src="https://github.com/paulllomatheus/Projeto-We-Care/blob/master/img/Projeto-Wide-desktop.png?raw=true" alt="versao-desktop"/>
+<img src="https://github.com/paulllomatheus/Projeto-We-Care/blob/master/img/we-care-desktop.png?raw=true" alt="versao-desktop"/>
 <br>
 <h3>Versão Mobile</h3>
-<img src="https://github.com/paulllomatheus/Projeto-We-Care/blob/master/img/Projeto-Wide-mobile.png?raw=true" alt="versao-mobile"/>
+<img src="https://github.com/paulllomatheus/Projeto-We-Care/blob/master/img/we-care-mobile.png?raw=true" alt="versao-mobile"/>
